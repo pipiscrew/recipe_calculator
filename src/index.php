@@ -53,7 +53,7 @@
 
 </head>
 <body style="padding: 20px;">
-	<div class="container-fruid" id='ingredients' >
+	<div class="container-fluid" id='ingredients' >
 		<div class="row">
 			<div class="col-md-2">
 				<div class='form-group'>
@@ -127,7 +127,7 @@
 		</div>
 	</div>
 	
-	<!-- <div class="container-fruid">
+	<!-- <div class="container-fluid">
 		<div class="row">
 			<div class="col-md-2"></div>
 			<div class="col-md-1"></div>
@@ -148,7 +148,7 @@
 		</div>
 	</div> -->
 
-	<div class="container-fruid" id='countingredients'>
+	<div class="container-fluid" id='countingredients'>
 		<div class="row">
 			<div class="col-md-2">
 				<div class='form-group'>
@@ -207,7 +207,7 @@
 		</div>
 	</div>
 
-	<div class="container-fruid" id='totalingredients'>
+	<div class="container-fluid" id='totalingredients'>
 		<div class="row">
 			<div class="col-md-2"><strong>Totals :</strong></div>
 			<div class="col-md-1">
@@ -240,7 +240,7 @@
 		</div>
 	</div>
 
-	<div class="container-fruid" id='percentageingredients' style="margin-top:5px">
+	<div class="container-fluid" id='percentageingredients' style="margin-top:5px">
 		<div class="row">
 			<div class="col-md-2"><strong>Percentage :</strong></div>
 			<div class="col-md-1">
@@ -284,7 +284,7 @@
 		</div>
 	</div>
 
-	<div class="container-fruid" id='portioningredients'>
+	<div class="container-fluid" id='portioningredients'>
 		<div class="row">
 			<div class="col-md-2">
 				<div class='form-group'>
